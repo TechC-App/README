@@ -11,7 +11,7 @@ https://github.com/TechC-App/README/blob/gh-pages/lesson/lesson-4.md
 https://github.com/TechC-App/README/blob/gh-pages/lesson/lesson-5.md
 
 ### 第６回講義ノート
-http://techc-app.github.io/socrates/?#wM9pYo3/write
+http://techc-app.github.io/socrates/?#wM9pYo3/read
 
 - - - 
 
