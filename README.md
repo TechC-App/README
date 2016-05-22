@@ -16,5 +16,8 @@ http://techc-app.github.io/socrates/?#wM9pYo3/read
 - - - 
 
 ## 体験授業
-### アプリ制作体験
+### アプリ制作体験 (iPhone)
 http://techc-app.github.io/socrates/?#xMgE2Aw/read
+
+### アプリ制作体験 (HTML5)
+http://techc-app.github.io/socrates/?#fUKz1yC/read
