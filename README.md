@@ -17,7 +17,10 @@ https://github.com/TechC-App/README/blob/gh-pages/lesson/lesson-6.md
 https://github.com/TechC-App/README/blob/gh-pages/lesson/lesson-7.md
 
 ### 第８回講義ノート
-http://techc-app.github.io/socrates/?#L9SRUAe/read
+https://github.com/TechC-App/README/blob/gh-pages/lesson/lesson-8.md
+
+### 第９回講義ノート
+http://techc-app.github.io/socrates/?#7v5tJ78/read
 
 - - - 
 
