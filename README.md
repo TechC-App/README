@@ -22,6 +22,9 @@ https://github.com/TechC-App/README/blob/gh-pages/lesson/lesson-8.md
 ### 第９回講義ノート
 http://techc-app.github.io/socrates/?#7v5tJ78/read
 
+### 第１０回講義ノート
+http://techc-app.github.io/socrates/?#a69ODdH/read
+
 - - - 
 
 ## 体験授業
