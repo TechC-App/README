@@ -5,6 +5,8 @@
 ## 講義ノート
 
 ### 第１回講義ノート
+https://github.com/TechC-App/README/blob/gh-pages/lesson/2nd/lesson-1.md
+
 http://techc-app.github.io/socrates/?#Z5zrj4Y/read
 
 - - - 
