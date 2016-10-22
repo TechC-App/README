@@ -32,10 +32,14 @@
 
 ## 制作アプリ用のリポジトリ作成
 ### 空のXcodeプロジェクトを作成
-注: `Create git repository on ~`はチェックを入れておく
+- Xcodeを起動し、`Create a new Xcode project`からプロジェクトを作成
+- `Single View Application`を選択し`Next`
+- `Product Name`は任意の名前をつけ`Next`
+- 保存場所を適当に指定し`Create`  
+  注: `Create git repository on ~`はチェックを入れておくこと
 
 ### Github上にリポジトリ作成
-[サンプル用リポジトリ](https://github.com/TechC-App/TaskApp)
+サンプル: [サンプル用リポジトリ](https://github.com/TechC-App/TaskApp)
 
 各自のリポジトリは[リポジトリの作成](https://github.com/new)からPersonal Spaceに作成  
 注: `Initialize this repository with a README`にはチェックを入れないこと
