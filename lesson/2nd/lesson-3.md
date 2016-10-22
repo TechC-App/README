@@ -42,6 +42,7 @@
 サンプル: [サンプル用リポジトリ](https://github.com/TechC-App/TaskApp)
 
 各自のリポジトリは[リポジトリの作成](https://github.com/new)からPersonal Spaceに作成  
+(後でURLを共有してもらうので、リポジトリ名は任意でOK)
 注: `Initialize this repository with a README`にはチェックを入れないこと
 
 ### Xcodeプロジェクトのremoteに作成したリポジトリを設定
