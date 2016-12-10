@@ -28,4 +28,5 @@ https://github.com/TechC-App/README/blob/gh-pages/lesson/2nd/lesson-9.md
 ### 第１０回講義ノート
 https://github.com/TechC-App/README/blob/gh-pages/lesson/2nd/lesson-10.md
 
-http://techc-app.github.io/socrates/?#dNMG5Q5/read
+### 第１１回講義ノート
+http://techc-app.github.io/socrates/?#FWHJlLM/read
