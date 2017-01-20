@@ -35,4 +35,7 @@ https://github.com/TechC-App/README/blob/gh-pages/lesson/2nd/lesson-11.md
 https://github.com/TechC-App/README/blob/gh-pages/lesson/2nd/lesson-12.md
 
 ### 第１３回講義ノート
-http://techc-app.github.io/socrates/?#xxEpG6d/read
+https://github.com/TechC-App/README/blob/gh-pages/lesson/2nd/lesson-13.md
+
+### 第１４回講義ノート
+http://techc-app.github.io/socrates/?#HKbVXMf/read
